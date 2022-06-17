@@ -1,5 +1,18 @@
+.Good{
+  color:#FFB81C;
+  background-color: #154734;
+}
+.WhatsReallyGood{
+ background-color: #773141;
+ color: #FFB612;
+
+}
 .App {
   text-align: center;
+}
+.Giant{
+  text-align:center;
+  font-size: 59rem;
 }
 
 .App-logo {

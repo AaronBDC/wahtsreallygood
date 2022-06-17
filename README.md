@@ -1,5 +1,6 @@
-# Getting Started with Create React App
-
+# Getting Started with wahtsreallygood
+Just another cra with react-dectect-offline from a true fan of RGIII, React, and the "{{cmdrs}}".
+The idea is to leave this window open and when it's good its really good. But you know the rest.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
